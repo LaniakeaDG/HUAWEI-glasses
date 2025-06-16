@@ -1,0 +1,12 @@
+[submodule "deepface"]
+	path = deepface
+	url = https://github.com/LaniakeaDG/gender_reg_deepface.git
+[submodule "openai_server"]
+	path = openai_server
+	url = https://github.com/LaniakeaDG/openai_server.git
+[submodule "coqui_tts"]
+	path = coqui_tts
+	url = https://github.com/LaniakeaDG/coqui-ai-TTS.git
+[submodule "sherpa-stt"]
+	path = sherpa-stt
+	url = https://github.com/LaniakeaDG/sherpa-onnx-stt.git
